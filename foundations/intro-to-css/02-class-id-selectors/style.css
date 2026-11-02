@@ -1,7 +1,7 @@
 /* Add CSS Styling */
 
 .odd {
-  background-color: pink;
+  background-color: rgb(255, 175, 188);
   font-family:
     Verdana,
     DejaVu Sans,
@@ -9,7 +9,7 @@
 }
 
 #number-two {
-  color: blue;
+  color: rgb(18, 18, 255);
   font-size: 36px;
 }
 
@@ -18,7 +18,7 @@
 }
 
 #number-four {
-  background-color: lightgreen;
+  background-color: rgb(170, 255, 170);
   font-size: 24px;
   font-weight: bold;
 }
