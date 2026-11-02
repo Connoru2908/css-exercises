@@ -7,3 +7,8 @@
     DejaVu Sans,
     sans-serif;
 }
+
+#number-two {
+  color: blue;
+  font-size: 36px;
+}
