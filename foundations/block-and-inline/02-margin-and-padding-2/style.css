@@ -31,3 +31,14 @@ button {
   padding-top: 16px;
   padding-bottom: 16px;
 }
+
+.button-container {
+  text-align: center;
+}
+
+button {
+  display: block;
+  margin: 0 auto;
+  width: 134px;
+  height: 35px;
+}
