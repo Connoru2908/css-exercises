@@ -7,6 +7,7 @@ body {
   width: 400px;
   background: white;
   margin: 16px auto;
+  padding: 8px;
 }
 
 .title,
@@ -14,16 +15,19 @@ body {
 .button-container {
   background: dodgerblue;
   font-size: 16px;
+  padding: 8px;
 }
 
 button {
   background: white;
 }
 
-.card {
-  padding: 8px;
+.title {
+  margin-bottom: 8px;
 }
 
 .content {
   margin-bottom: 8px;
+  padding-top: 16px;
+  padding-bottom: 16px;
 }
