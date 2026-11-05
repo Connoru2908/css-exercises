@@ -19,3 +19,7 @@ body {
 button {
   background: white;
 }
+
+.card {
+  padding: 8px;
+}
